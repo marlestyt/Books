@@ -21,6 +21,11 @@
     margin-right: 15%;
 }
 
+.container img:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
 ul{
     display: grid;
     grid-template-columns: repeat(4, 20%);
