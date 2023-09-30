@@ -45,3 +45,11 @@ ul{
     font-family: 'Dancing Script', cursive;
 
 }
+
+.footer-container{
+    color:white;
+}
+
+.footer-container h2{
+    font-size:12;
+}

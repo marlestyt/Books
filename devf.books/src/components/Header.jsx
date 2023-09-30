@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export default function Header() {
     return(
         <div>
@@ -26,7 +27,7 @@ export default function Header() {
                       </li>
                       
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Create Book</a>
+                        <a class="nav-link" href={`/create`}>Create Book</a>
                       </li>
           
                       <li class="nav-item">
