@@ -2,7 +2,7 @@ import React, {useEffect, useState} from "react";
 import { Link } from "react-router-dom";
 import axios from 'axios'
 import "./styles.css"
-import Books from "../pages/Books";
+//import Books from "../pages/Books";
 
 export default function Main(){
     const[data, setData] = useState([])
