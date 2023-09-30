@@ -8,6 +8,8 @@ import Main from './components/Main'
 import Footer from './components/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/js/index.esm.js'
+import 'bootstrap/dist/js/bootstrap.bundle'
+
 import './App.css'
 
 function App() {
